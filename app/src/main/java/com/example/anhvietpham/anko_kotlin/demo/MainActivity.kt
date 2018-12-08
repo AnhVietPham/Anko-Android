@@ -1,7 +1,8 @@
-package com.example.anhvietpham.anko_kotlin
+package com.example.anhvietpham.anko_kotlin.demo
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
+import com.example.anhvietpham.anko_kotlin.R
 import org.jetbrains.anko.*
 
 class MainActivity : AppCompatActivity() {
