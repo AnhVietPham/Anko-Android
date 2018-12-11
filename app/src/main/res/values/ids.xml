@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="home_anko_ui" type="id"/>
+    <item name="viewpager_anko" type="id"/>
+    <item name="list_fragment_anko" type="id"/>
+    <item name="list_recycler_view_anko" type="id"/>
+    <item name="list_fragment_card_anko" type="id"/>
+    <item name="text_anko" type="id"/>
+    <item name="image_anko" type="id"/>
+    <item name="profile_circle_image_viewholder" type="id"/>
+    <item name="profile_text_viewholder" type="id"/>
+    <item name="shadow_view_anko_viewholder" type="id"/>
+    <item name="item_icon" type="id"/>
+    <item name="item_name" type="id"/>
+    <item name="item_details" type="id"/>
+    <item name="profile_underline" type="id"/>
+    <item name="shadow_view_details" type="id"/>
+    <item name="profile_fragment_anko" type="id"/>
+    <item name="profile_recycler_view_anko" type="id"/>
+    <item name="profile_background" type="id"/>
+    <item name="profile_image" type="id"/>
+    <item name="profile_full_name" type="id"/>
+    <item name="list_card" type="id"/>
+    <item name="container" type="id"/>
+    <item name="recycler_container" type="id"/>
+</resources>
